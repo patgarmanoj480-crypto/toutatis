@@ -40,7 +40,7 @@ toutatis -i instagramID -s instagramsessionid
 
 ```
 Informations about     : xxxusernamexxx
-Full Name              : xxxusernamesxx | userID : 123456789
+Full Name              : manoj_ptgr_| userID : 123456789
 Verified               : False | Is buisness Account : False
 Is private Account     : False
 Follower               : xxx | Following : xxx
